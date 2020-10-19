@@ -1,8 +1,8 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Chocolate', 13, 'Male', 'Brown', 'Calm', 'true');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Rowdy', 15, 'Male', 'Brown', 'Angry', 'true');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Tabitha', 15, 'Female', 'Light Brown', 'Cool', 'true');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Sergeant Brown', 28, 'Male', 'Dark Brown', 'Very Angry', 'false');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Melissa', 29, 'Female', 'Brown', 'Friendly', 'true');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 35, 'Male', 'Brown', 'Extremely Angry', 'true');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 27, 'Female', 'Brown', 'Friendly', 'false');
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 28, 'Male', 'Brown', 'Angry', 'false');
+INSERT INTO bears VALUES (1, 'Mr. Chocolate', 13, 'M', 'Brown', 'Calm', 'true');
+INSERT INTO bears VALUES (2, 'Rowdy', 15, 'M', 'Brown', 'Angry', 'true');
+INSERT INTO bears VALUES (3, 'Tabitha', 15, 'F', 'Light Brown', 'Cool', 'true');
+INSERT INTO bears VALUES (4, 'Sergeant Brown', 28, 'M', 'Dark Brown', 'Very Angry', 'false');
+INSERT INTO bears VALUES (5, 'Melissa', 29, 'F', 'Brown', 'Friendly', 'true');
+INSERT INTO bears VALUES (6, 'Grinch', 35, 'M', 'Brown', 'Extremely Angry', 'true');
+INSERT INTO bears VALUES (7, 'Wendy', 27, 'F', 'Brown', 'Friendly', 'false');
+INSERT INTO bears VALUES (8, NULL, 28, 'M', 'Brown', 'Angry', 'false');
