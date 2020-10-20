@@ -70,7 +70,7 @@ Your columns should be the following types:
 |gender |text   |(The choices could be "Male", "Female", "Other", or "Prefer not to say")|
 |color  |text   |
 |temperament|text|
-|alive  |boolean|
+|alive  |4|
 
 Read about [SQLite3 Datatypes](https://www.sqlite.org/datatype3.html) to determine what your insert values are going to be. Be sure to pay attention to how booleans are expressed in SQLite3.
 
